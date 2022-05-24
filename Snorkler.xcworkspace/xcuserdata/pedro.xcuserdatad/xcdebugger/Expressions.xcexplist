@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static ApiHelper.(updateProfilePicture(params : [String : Any], imageData : String, uploadProgress : (Double) -&gt; (), onsuccess : (JSON?) -&gt; (), onfailure : (String?) -&gt; ()) -&gt; ()).(closure #1):ApiHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "form">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesViewController.didCheckOption(UIButton) -&gt; ():PreferencesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "female">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddInterestViewController.(getTrendingInterests() -&gt; ()).(closure #1).(closure #1):AddInterestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.allTags">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ApiHelper.updateProfilePicture(params : [String : Any], imageData : String, uploadProgress : (Double) -&gt; (), onsuccess : (JSON?) -&gt; (), onfailure : (String?) -&gt; ()) -&gt; ():ApiHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "form">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesViewController.(getTrendingInterests() -&gt; ()).(closure #1).(closure #1):PreferencesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "interestsArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.(updateCounting() -&gt; ()).(closure #1):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesViewController.showPicker(index : Int) -&gt; ():PreferencesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pickerData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddInterestViewController.setupTags() -&gt; ():AddInterestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tagsView.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.srollview.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

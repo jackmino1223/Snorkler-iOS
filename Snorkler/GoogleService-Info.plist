@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>831605012870-lfllieohhcc6cus60qbkhail426geps2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.831605012870-lfllieohhcc6cus60qbkhail426geps2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBt8ENJ_SI_X-pjQAyxCIcmVoiZagS1cwA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>831605012870</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.partnerpeople.snorkler</string>
+	<key>PROJECT_ID</key>
+	<string>face2facechat-9d751</string>
+	<key>STORAGE_BUCKET</key>
+	<string>face2facechat-9d751.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:831605012870:ios:99e9a35d4e2f4f47</string>
+	<key>DATABASE_URL</key>
+	<string>https://face2facechat-9d751.firebaseio.com</string>
+</dict>
+</plist>
